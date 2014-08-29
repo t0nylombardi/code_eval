@@ -1,3 +1,4 @@
+# Number to Text 
 def number_to_text n
   if n < 20
     %w[Zero One Two Three Four Five Six Seven Eight Nine Ten Eleven Twelve
