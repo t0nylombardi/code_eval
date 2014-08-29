@@ -1,4 +1,4 @@
-# REMOVE CHARACTERS 
+# Capitalize Words
 # Author: Anthony lombardi
 
 def is_email_valid? string 
