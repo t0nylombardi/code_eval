@@ -1,4 +1,4 @@
-# REMOVE CHARACTERS 
+# Decode URI
 # Author: Anthony lombardi
 
 def is_email_valid? string 
