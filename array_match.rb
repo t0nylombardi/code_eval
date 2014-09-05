@@ -1,4 +1,4 @@
-# REMOVE CHARACTERS 
+# array Match. 
 # Author: Anthony lombardi
 
 def array_scrubber string 
