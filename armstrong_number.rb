@@ -1,5 +1,8 @@
-# REMOVE CHARACTERS 
-# Author: Anthony lombardi
+# ARMSTRONG NUMBERS
+# CHALLENGE DESCRIPTION:
+
+# An Armstrong number is an n-digit number that is equal to the sum of 
+# the n'th powers of its digits. Determine if the input numbers are Armstrong numbers.
 
 def is_an number 
 	num = []

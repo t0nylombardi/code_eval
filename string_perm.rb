@@ -1,3 +1,11 @@
+# STRING PERMUTATIONS
+# CHALLENGE DESCRIPTION:
+
+# Write a program which prints all the permutations of a string in alphabetical 
+# order. We consider that digits < upper case letters < lower case letters. 
+# The sorting should be performed in ascending order.
+
+
 class Array
   def perm(num)
     return to_enum(:repeated_permutation, num) unless block_given?
